@@ -17,10 +17,6 @@ This is a calendar web application built using **React.js**, **Redux**, and **Mo
 - **Database**: MongoDB
 - **CSS**: Tailwind CSS (for styling)
 
-## Screenshots
-
-![Calendar View](https://via.placeholder.com/800x400.png?text=Calendar+View)
-
 ## Installation
 
 Follow these steps to set up the project locally:
